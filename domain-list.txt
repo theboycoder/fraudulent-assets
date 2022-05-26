@@ -63,3 +63,8 @@ loobstrr.netlify.app
 *.lohstr.co
 *.stellarterm.org
 *.agro.stellar-commodities.com
+*.quantumstellar.ai
+*.moneygram.tomlhosting.co
+*.moneygram.shop
+*.moneygram.stellarteam.io
+*.moneygramtoken.netlify.app
